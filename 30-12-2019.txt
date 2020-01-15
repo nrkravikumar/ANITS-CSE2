@@ -1,0 +1,33 @@
+
+For Registration:
+-----------------
+
+https://engineering.apssdc.in/register
+
+anaconda-navigator
+
+
+->Python Software:
+
+	- python shell
+	- Notepad
+	- Advanced Editor
+	- IDLE -> Integrated Development Learning 
+				Environment
+
+Compiler:
+
+	Displays all the errors at a time
+
+Interpreter:
+
+	It stops for the first error in a line
+	
+
+	.ipynb
+	-> Interactive Python Notebook
+	-> Jupyter(Online or Offline)
+
+
+
+	
